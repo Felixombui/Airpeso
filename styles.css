@@ -1,0 +1,9 @@
+body{
+    font-family: 'Segoe UI';
+}
+.fancybutton{
+    width: 120px;
+    background-color: cyan;
+    color: orange;
+    border-radius: 20%;
+}
